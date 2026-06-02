@@ -8,10 +8,10 @@ on:
         type: string
   pull_request:
     branches:
-      - main
+      - autorepobot-xray-fork
   push:
     branches:
-      - main
+      - autorepobot-xray-fork
 
 jobs:
   build:
