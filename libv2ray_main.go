@@ -345,3 +345,4 @@ func createStdoutLogWriter() corecommlog.WriterCreator {
 		}
 	}
 }
+replace github.com/xtls/xray-core => github.com/EdgarBL1/Xray-core v0.0.0-20260417230405-b4650360d6a0
